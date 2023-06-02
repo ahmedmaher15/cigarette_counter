@@ -11,6 +11,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+#cigarette counter Demo 
+## Still working on it 
+
 <img src="https://github.com/ahmedmaher15/cigarette_counter/assets/69214341/1cc68d59-b767-4dd8-8990-4315f762d8a5.png" width="200" height="350">
 <img src="https://github.com/ahmedmaher15/cigarette_counter/assets/69214341/ccd79fd8-4875-4144-b8be-918d42226dbf.png" width="200" height="350">
 <img src="https://github.com/ahmedmaher15/cigarette_counter/assets/69214341/dced6882-784c-4a28-9f0c-ef67793b299b.png" width="200" height="350">
